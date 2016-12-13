@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AnalyzeEntitiesRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="AnalyzeEntitiesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="AnalyzeSentimentRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="AnalyzeSentimentResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="AnnotateTextRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="AnnotateTextResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="DependencyEdge.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Document.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Entity.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="EntityMention.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Features.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="PartOfSpeech.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Sentence.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Sentiment.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Status.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="TextSpan.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Token.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+</dwsync>

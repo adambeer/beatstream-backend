@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AdministrationRegion.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="AdministrativeBody.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Candidate.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Channel.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Contest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="DivisionSearchResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="DivisionSearchResult.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Election.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ElectionOfficial.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ElectionsQueryResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ElectoralDistrict.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GeographicDivision.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Office.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Official.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="PollingLocation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="RepresentativeInfoData.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="RepresentativeInfoResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="SimpleAddressType.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Source.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="VoterInfoResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+</dwsync>

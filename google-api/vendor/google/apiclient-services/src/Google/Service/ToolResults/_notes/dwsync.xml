@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Any.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Duration.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Execution.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="FailureDetail.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="FileReference.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="History.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Image.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="InconclusiveDetail.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ListExecutionsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ListHistoriesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ListStepsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ListStepThumbnailsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Outcome.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ProjectSettings.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="PublishXunitXmlFilesRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="SkippedDetail.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="StackTrace.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Status.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Step.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="StepDimensionValueEntry.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="StepLabelsEntry.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="SuccessDetail.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="TestCaseReference.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="TestExecutionStep.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="TestIssue.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="TestSuiteOverview.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="TestTiming.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Thumbnail.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Timestamp.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ToolExecution.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ToolExecutionStep.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ToolExitCode.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ToolOutputReference.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+</dwsync>

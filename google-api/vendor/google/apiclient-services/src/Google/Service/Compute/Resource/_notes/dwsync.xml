@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Addresses.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Autoscalers.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="BackendServices.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Disks.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="DiskTypes.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Firewalls.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="ForwardingRules.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="GlobalAddresses.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="GlobalForwardingRules.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="GlobalOperations.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="HealthChecks.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="HttpHealthChecks.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="HttpsHealthChecks.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Images.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="InstanceGroupManagers.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="InstanceGroups.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Instances.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="InstanceTemplates.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Licenses.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="MachineTypes.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Networks.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Projects.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="RegionOperations.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Regions.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Routers.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Routes.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Snapshots.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="SslCertificates.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Subnetworks.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="TargetHttpProxies.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="TargetHttpsProxies.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="TargetInstances.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="TargetPools.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="TargetSslProxies.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="TargetVpnGateways.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="UrlMaps.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="VpnTunnels.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="ZoneOperations.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Zones.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+</dwsync>

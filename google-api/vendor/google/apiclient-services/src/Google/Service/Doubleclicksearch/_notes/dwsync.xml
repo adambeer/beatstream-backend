@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Availability.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="Conversion.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ConversionList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="CustomDimension.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="CustomMetric.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="Report.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ReportApiColumnSpec.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ReportFiles.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ReportRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ReportRequestFilters.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ReportRequestOrderBy.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ReportRequestReportScope.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ReportRequestTimeRange.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="SavedColumn.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="SavedColumnList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="UpdateAvailabilityRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="UpdateAvailabilityResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+</dwsync>

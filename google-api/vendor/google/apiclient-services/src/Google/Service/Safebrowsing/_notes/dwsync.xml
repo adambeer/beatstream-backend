@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Checksum.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ClientInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="Constraints.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="FetchThreatListUpdatesRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="FetchThreatListUpdatesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="FindFullHashesRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="FindFullHashesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="FindThreatMatchesRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="FindThreatMatchesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ListThreatListsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ListUpdateRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ListUpdateResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="MetadataEntry.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="RawHashes.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="RawIndices.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="RiceDeltaEncoding.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ThreatEntry.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ThreatEntryMetadata.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ThreatEntrySet.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ThreatInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ThreatListDescriptor.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ThreatMatch.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+</dwsync>

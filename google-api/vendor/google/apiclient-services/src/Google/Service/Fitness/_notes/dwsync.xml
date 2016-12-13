@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AggregateBucket.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="AggregateBy.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="AggregateRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="AggregateResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Application.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="BucketByActivity.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="BucketBySession.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="BucketByTime.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="BucketByTimePeriod.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="DataPoint.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Dataset.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="DataSource.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="DataType.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="DataTypeField.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Device.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ListDataSourcesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ListSessionsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="MapValue.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Session.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Value.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ValueMapValEntry.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+</dwsync>

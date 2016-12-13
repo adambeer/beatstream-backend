@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractEventTest.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243484000000000" />
+<file name="AbstractRequestEventTest.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243484000000000" />
+<file name="AbstractRetryableEventTest.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243484000000000" />
+<file name="AbstractTransferEventTest.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243484000000000" />
+<file name="BeforeEventTest.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243484000000000" />
+<file name="EmitterTest.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243484000000000" />
+<file name="ErrorEventTest.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243484000000000" />
+<file name="HasEmitterTraitTest.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243484000000000" />
+<file name="ListenerAttacherTraitTest.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243484000000000" />
+<file name="ProgressEventTest.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243484000000000" />
+<file name="RequestEventsTest.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243484000000000" />
+</dwsync>

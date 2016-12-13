@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AcknowledgeRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="Binding.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ListSubscriptionsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ListTopicsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ListTopicSubscriptionsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ModifyAckDeadlineRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ModifyPushConfigRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="Policy.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="PublishRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="PublishResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="PubsubEmpty.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="PubsubMessage.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="PullRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="PullResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="PushConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ReceivedMessage.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="SetIamPolicyRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="Subscription.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="TestIamPermissionsRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="TestIamPermissionsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="Topic.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+</dwsync>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Bucket.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="BucketAccessControl.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="BucketAccessControlProjectTeam.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="BucketAccessControls.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="BucketCors.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="BucketEncryption.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="BucketLifecycle.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="BucketLifecycleRule.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="BucketLifecycleRuleAction.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="BucketLifecycleRuleCondition.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="BucketLogging.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="BucketOwner.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Buckets.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="BucketVersioning.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="BucketWebsite.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Channel.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ComposeRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ComposeRequestSourceObjects.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ComposeRequestSourceObjectsObjectPreconditions.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ObjectAccessControl.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ObjectAccessControlProjectTeam.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ObjectAccessControls.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Objects.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="RewriteResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="StorageObject.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="StorageObjectCustomerEncryption.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="StorageObjectOwner.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+</dwsync>

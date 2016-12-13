@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Acl.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="AclRule.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="AclRuleScope.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Calendar.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="CalendarList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="CalendarListEntry.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="CalendarListEntryNotificationSettings.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="CalendarNotification.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Channel.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ColorDefinition.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Colors.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Error.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Event.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="EventAttachment.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="EventAttendee.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="EventCreator.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="EventDateTime.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="EventExtendedProperties.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="EventGadget.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="EventOrganizer.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="EventReminder.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="EventReminders.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Events.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="EventSource.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="FreeBusyCalendar.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="FreeBusyGroup.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="FreeBusyRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="FreeBusyRequestItem.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="FreeBusyResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Setting.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Settings.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="TimePeriod.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+</dwsync>

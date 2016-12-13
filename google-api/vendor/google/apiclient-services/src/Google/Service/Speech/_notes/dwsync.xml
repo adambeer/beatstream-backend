@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AsyncRecognizeRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="CancelOperationRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ListOperationsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Operation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="RecognitionAudio.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="RecognitionConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="SpeechContext.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="SpeechEmpty.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="SpeechRecognitionAlternative.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="SpeechRecognitionResult.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Status.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="SyncRecognizeRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="SyncRecognizeResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+</dwsync>

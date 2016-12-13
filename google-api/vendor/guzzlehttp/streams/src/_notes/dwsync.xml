@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AppendStream.php" server="adambeer.ca//public_html/" local="130576043200000000" remote="131243484000000000" />
+<file name="AsyncReadStream.php" server="adambeer.ca//public_html/" local="130576043200000000" remote="131243484000000000" />
+<file name="BufferStream.php" server="adambeer.ca//public_html/" local="130576043200000000" remote="131243484000000000" />
+<file name="CachingStream.php" server="adambeer.ca//public_html/" local="130576043200000000" remote="131243484000000000" />
+<file name="DroppingStream.php" server="adambeer.ca//public_html/" local="130576043200000000" remote="131243484000000000" />
+<file name="FnStream.php" server="adambeer.ca//public_html/" local="130576043200000000" remote="131243484000000000" />
+<file name="GuzzleStreamWrapper.php" server="adambeer.ca//public_html/" local="130576043200000000" remote="131243484000000000" />
+<file name="InflateStream.php" server="adambeer.ca//public_html/" local="130576043200000000" remote="131243484000000000" />
+<file name="LazyOpenStream.php" server="adambeer.ca//public_html/" local="130576043200000000" remote="131243484000000000" />
+<file name="LimitStream.php" server="adambeer.ca//public_html/" local="130576043200000000" remote="131243484000000000" />
+<file name="MetadataStreamInterface.php" server="adambeer.ca//public_html/" local="130576043200000000" remote="131243484000000000" />
+<file name="NoSeekStream.php" server="adambeer.ca//public_html/" local="130576043200000000" remote="131243484000000000" />
+<file name="NullStream.php" server="adambeer.ca//public_html/" local="130576043200000000" remote="131243484000000000" />
+<file name="PumpStream.php" server="adambeer.ca//public_html/" local="130576043200000000" remote="131243484000000000" />
+<file name="Stream.php" server="adambeer.ca//public_html/" local="130576043200000000" remote="131243484000000000" />
+<file name="StreamDecoratorTrait.php" server="adambeer.ca//public_html/" local="130576043200000000" remote="131243484000000000" />
+<file name="StreamInterface.php" server="adambeer.ca//public_html/" local="130576043200000000" remote="131243484000000000" />
+<file name="Utils.php" server="adambeer.ca//public_html/" local="130576043200000000" remote="131243484000000000" />
+</dwsync>

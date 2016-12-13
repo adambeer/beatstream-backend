@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Binding.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="CloudresourcemanagerEmpty.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="FolderOperation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="FolderOperationError.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GetIamPolicyRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListProjectsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Operation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Organization.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="OrganizationOwner.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Policy.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Project.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ProjectCreationStatus.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ResourceId.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="SearchOrganizationsRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="SearchOrganizationsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="SetIamPolicyRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Status.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="TestIamPermissionsRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="TestIamPermissionsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="UndeleteProjectRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+</dwsync>

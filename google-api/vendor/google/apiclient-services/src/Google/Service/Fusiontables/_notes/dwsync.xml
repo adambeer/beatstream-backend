@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Bucket.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Column.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ColumnBaseColumn.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ColumnList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Geometry.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Import.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Line.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="LineStyle.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Point.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="PointStyle.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Polygon.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="PolygonStyle.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Sqlresponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="StyleFunction.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="StyleFunctionGradient.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="StyleFunctionGradientColors.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="StyleSetting.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="StyleSettingList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Table.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="TableList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Task.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="TaskList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Template.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="TemplateList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+</dwsync>

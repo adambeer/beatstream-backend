@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="GoogleApiHttpBody.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleCloudMlV1beta1CancelJobRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleCloudMlV1beta1GetConfigResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleCloudMlV1beta1HyperparameterOutput.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleCloudMlV1beta1HyperparameterOutputHyperparameterMetric.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleCloudMlV1beta1HyperparameterSpec.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleCloudMlV1beta1Job.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleCloudMlV1beta1ListJobsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleCloudMlV1beta1ListModelsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleCloudMlV1beta1ListVersionsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleCloudMlV1beta1Model.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleCloudMlV1beta1OperationMetadata.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleCloudMlV1beta1ParameterSpec.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleCloudMlV1beta1PredictionInput.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleCloudMlV1beta1PredictionOutput.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleCloudMlV1beta1PredictRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleCloudMlV1beta1SetDefaultVersionRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleCloudMlV1beta1TrainingInput.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleCloudMlV1beta1TrainingOutput.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleCloudMlV1beta1Version.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleLongrunningListOperationsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleLongrunningOperation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleProtobufEmpty.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GoogleRpcStatus.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+</dwsync>

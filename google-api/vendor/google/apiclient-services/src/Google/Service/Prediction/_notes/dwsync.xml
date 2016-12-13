@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Analyze.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="AnalyzeDataDescription.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="AnalyzeDataDescriptionFeatures.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="AnalyzeDataDescriptionFeaturesCategorical.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="AnalyzeDataDescriptionFeaturesCategoricalValues.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="AnalyzeDataDescriptionFeaturesNumeric.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="AnalyzeDataDescriptionFeaturesText.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="AnalyzeDataDescriptionOutputFeature.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="AnalyzeDataDescriptionOutputFeatureNumeric.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="AnalyzeDataDescriptionOutputFeatureText.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="AnalyzeModelDescription.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Input.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="InputInput.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Insert.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Insert2.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Insert2ModelInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="InsertTrainingInstances.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Output.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="OutputOutputMulti.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="PredictionList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Update.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+</dwsync>

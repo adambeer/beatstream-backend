@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CheckError.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="CheckRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="CheckResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="Distribution.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ExplicitBuckets.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ExponentialBuckets.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="LinearBuckets.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="LogEntry.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="MetricValue.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="MetricValueSet.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="Operation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ReportError.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ReportRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ReportResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="Status.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+</dwsync>

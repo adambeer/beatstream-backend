@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractLogger.php" server="adambeer.ca//public_html/" local="130005528520000000" remote="131243484600000000" />
+<file name="InvalidArgumentException.php" server="adambeer.ca//public_html/" local="130005528520000000" remote="131243484600000000" />
+<file name="LoggerAwareInterface.php" server="adambeer.ca//public_html/" local="130005528520000000" remote="131243484600000000" />
+<file name="LoggerAwareTrait.php" server="adambeer.ca//public_html/" local="130005528520000000" remote="131243484600000000" />
+<file name="LoggerInterface.php" server="adambeer.ca//public_html/" local="130005528520000000" remote="131243484600000000" />
+<file name="LoggerTrait.php" server="adambeer.ca//public_html/" local="130005528520000000" remote="131243484600000000" />
+<file name="LogLevel.php" server="adambeer.ca//public_html/" local="130005528520000000" remote="131243484600000000" />
+<file name="NullLogger.php" server="adambeer.ca//public_html/" local="130005528520000000" remote="131243484600000000" />
+</dwsync>

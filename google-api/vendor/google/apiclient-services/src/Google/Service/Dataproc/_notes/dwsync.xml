@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CancelJobRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Cluster.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="ClusterConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="ClusterOperationMetadata.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="ClusterOperationStatus.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="ClusterStatus.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="DataprocEmpty.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="DiagnoseClusterOutputLocation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="DiagnoseClusterRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="DiagnoseClusterResults.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="DiskConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="GceClusterConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="HadoopJob.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="HiveJob.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="InstanceGroupConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Job.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="JobPlacement.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="JobReference.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="JobStatus.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="ListClustersResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="ListJobsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="ListOperationsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="LoggingConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="ManagedGroupConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="NodeInitializationAction.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Operation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="OperationMetadata.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="OperationStatus.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="PigJob.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="PySparkJob.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="QueryList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="SoftwareConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="SparkJob.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="SparkSqlJob.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Status.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="SubmitJobRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+</dwsync>

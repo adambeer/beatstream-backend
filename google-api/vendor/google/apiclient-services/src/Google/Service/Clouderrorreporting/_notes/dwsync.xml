@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DeleteEventsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ErrorContext.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ErrorEvent.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ErrorGroup.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ErrorGroupStats.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="HttpRequestContext.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListEventsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListGroupStatsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ReportedErrorEvent.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ReportErrorEventResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ServiceContext.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="SourceLocation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="TimedCount.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="TrackingIssue.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+</dwsync>

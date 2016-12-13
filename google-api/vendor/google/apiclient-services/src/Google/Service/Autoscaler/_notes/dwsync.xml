@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Autoscaler.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="AutoscalerListResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="AutoscalingPolicy.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="AutoscalingPolicyCpuUtilization.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="AutoscalingPolicyCustomMetricUtilization.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="AutoscalingPolicyLoadBalancingUtilization.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="DeprecationStatus.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="Operation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="OperationError.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="OperationErrorErrors.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="OperationList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="OperationWarnings.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="OperationWarningsData.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="Zone.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="ZoneList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+</dwsync>

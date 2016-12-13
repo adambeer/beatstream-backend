@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuditConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="AuthorizedKeysView.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Binding.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Condition.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Group.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GroupList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GroupsAddMemberRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GroupsRemoveMemberRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="LinuxAccountViews.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="LinuxGetAuthorizedKeysViewResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="LinuxGetLinuxAccountViewsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="LinuxGroupView.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="LinuxUserView.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="LogConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="LogConfigCounterOptions.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Operation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="OperationError.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="OperationErrorErrors.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="OperationList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="OperationWarnings.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="OperationWarningsData.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Policy.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="PublicKey.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Rule.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="TestPermissionsRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="TestPermissionsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="User.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="UserList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+</dwsync>

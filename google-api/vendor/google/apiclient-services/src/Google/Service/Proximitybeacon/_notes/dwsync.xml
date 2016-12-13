@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AdvertisedId.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="AttachmentInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Beacon.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="BeaconAttachment.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="BeaconInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Date.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="DeleteAttachmentsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Diagnostics.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="EphemeralIdRegistration.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="EphemeralIdRegistrationParams.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="GetInfoForObservedBeaconsRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="GetInfoForObservedBeaconsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="IndoorLevel.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="LatLng.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="ListBeaconAttachmentsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="ListBeaconsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="ListDiagnosticsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="ListNamespacesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Observation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="ProximitybeaconEmpty.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="ProximitybeaconNamespace.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+</dwsync>

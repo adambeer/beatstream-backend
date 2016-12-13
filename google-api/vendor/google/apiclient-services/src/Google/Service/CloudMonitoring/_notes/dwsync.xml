@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DeleteMetricDescriptorResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListMetricDescriptorsRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListMetricDescriptorsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListTimeseriesDescriptorsRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListTimeseriesDescriptorsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListTimeseriesRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListTimeseriesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="MetricDescriptor.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="MetricDescriptorLabelDescriptor.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="MetricDescriptorTypeDescriptor.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Point.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="PointDistribution.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="PointDistributionBucket.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="PointDistributionOverflowBucket.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="PointDistributionUnderflowBucket.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Timeseries.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="TimeseriesDescriptor.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="TimeseriesDescriptorLabel.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="TimeseriesPoint.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="WriteTimeseriesRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="WriteTimeseriesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+</dwsync>

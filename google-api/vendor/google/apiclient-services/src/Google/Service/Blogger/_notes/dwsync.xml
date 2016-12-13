@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Blog.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="BlogList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="BlogLocale.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="BlogPages.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="BlogPerUserInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="BlogPosts.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="BlogUserInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="Comment.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="CommentAuthor.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="CommentAuthorImage.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="CommentBlog.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="CommentInReplyTo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="CommentList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="CommentPost.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="Page.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="PageAuthor.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="PageAuthorImage.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="PageBlog.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="PageList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="Pageviews.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="PageviewsCounts.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="Post.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="PostAuthor.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="PostAuthorImage.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="PostBlog.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="PostImages.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="PostList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="PostLocation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="PostPerUserInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="PostReplies.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="PostUserInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="PostUserInfosList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="User.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="UserBlogs.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="UserLocale.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+</dwsync>

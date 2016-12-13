@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Address.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Biography.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Birthday.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="BraggingRights.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="ContactGroupMembership.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="CoverPhoto.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Date.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="DomainMembership.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="EmailAddress.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Event.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="FieldMetadata.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Gender.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="GetPeopleResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="ImClient.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Interest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="ListConnectionsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Locale.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Membership.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Name.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Nickname.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Occupation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Organization.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Person.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="PersonMetadata.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="PersonResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="PhoneNumber.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Photo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Relation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="RelationshipInterest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="RelationshipStatus.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Residence.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Skill.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Source.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Tagline.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Url.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+</dwsync>

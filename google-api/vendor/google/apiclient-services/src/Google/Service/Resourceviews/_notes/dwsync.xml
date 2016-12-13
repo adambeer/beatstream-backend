@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Label.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ListResourceResponseItem.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="Operation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="OperationError.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="OperationErrorErrors.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="OperationList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="OperationWarnings.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="OperationWarningsData.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ResourceView.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ServiceEndpoint.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ZoneViewsAddResourcesRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ZoneViewsGetServiceResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ZoneViewsList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ZoneViewsListResourcesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ZoneViewsRemoveResourcesRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ZoneViewsSetServiceRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+</dwsync>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AddonsConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Cluster.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="ClusterUpdate.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="CreateClusterRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="CreateNodePoolRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="HorizontalPodAutoscaling.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="HttpLoadBalancing.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="ListClustersResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="ListNodePoolsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="ListOperationsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="MasterAuth.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="NodeConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="NodePool.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Operation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="ServerConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="UpdateClusterRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+</dwsync>

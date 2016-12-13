@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AutoForwarding.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="BatchDeleteMessagesRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Draft.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Filter.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="FilterAction.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="FilterCriteria.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ForwardingAddress.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="History.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="HistoryLabelAdded.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="HistoryLabelRemoved.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="HistoryMessageAdded.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="HistoryMessageDeleted.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ImapSettings.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Label.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ListDraftsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ListFiltersResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ListForwardingAddressesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ListHistoryResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ListLabelsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ListMessagesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ListSendAsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ListThreadsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Message.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="MessagePart.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="MessagePartBody.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="MessagePartHeader.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ModifyMessageRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ModifyThreadRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="PopSettings.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Profile.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="SendAs.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="SmtpMsa.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Thread.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="VacationSettings.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="WatchRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="WatchResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+</dwsync>

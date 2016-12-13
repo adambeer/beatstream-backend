@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Cardinality.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="EndCondition.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListConfigsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListVariablesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListWaitersResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Operation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="RuntimeConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="RuntimeconfigEmpty.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Status.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Variable.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Waiter.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="WatchVariableRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+</dwsync>

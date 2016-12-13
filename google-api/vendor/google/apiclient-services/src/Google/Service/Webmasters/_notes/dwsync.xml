@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ApiDataRow.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ApiDimensionFilter.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ApiDimensionFilterGroup.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="SearchAnalyticsQueryRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243483400000000" />
+<file name="SearchAnalyticsQueryResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243483400000000" />
+<file name="SitemapsListResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243483400000000" />
+<file name="SitesListResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243483400000000" />
+<file name="UrlCrawlErrorCount.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243483400000000" />
+<file name="UrlCrawlErrorCountsPerType.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243483400000000" />
+<file name="UrlCrawlErrorsCountsQueryResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243483400000000" />
+<file name="UrlCrawlErrorsSample.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243483400000000" />
+<file name="UrlCrawlErrorsSamplesListResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243483400000000" />
+<file name="UrlSampleDetails.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243483400000000" />
+<file name="WmxSite.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243483400000000" />
+<file name="WmxSitemap.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243483400000000" />
+<file name="WmxSitemapContent.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243483400000000" />
+</dwsync>

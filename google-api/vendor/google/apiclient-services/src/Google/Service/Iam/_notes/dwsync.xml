@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuditData.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Binding.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="BindingDelta.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="CloudAuditOptions.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Condition.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="CounterOptions.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="CreateServiceAccountKeyRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="CreateServiceAccountRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="DataAccessOptions.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="IamEmpty.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ListServiceAccountKeysResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ListServiceAccountsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="LogConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Policy.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="PolicyDelta.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="QueryGrantableRolesRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="QueryGrantableRolesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Role.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Rule.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ServiceAccount.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ServiceAccountKey.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="SetIamPolicyRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="SignBlobRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="SignBlobResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="TestIamPermissionsRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="TestIamPermissionsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+</dwsync>

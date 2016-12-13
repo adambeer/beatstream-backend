@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Assignment.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="AssignmentSubmission.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Attachment.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ClassroomEmpty.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Course.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="CourseAlias.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="CourseMaterial.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="CourseMaterialSet.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="CourseWork.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Date.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="DriveFile.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="DriveFolder.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Form.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GlobalPermission.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Guardian.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="GuardianInvitation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Invitation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Link.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListCourseAliasesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListCoursesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListCourseWorkResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListGuardianInvitationsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListGuardiansResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListInvitationsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListStudentsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListStudentSubmissionsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListTeachersResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Material.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ModifyAttachmentsRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="MultipleChoiceQuestion.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="MultipleChoiceSubmission.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Name.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ReclaimStudentSubmissionRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ReturnStudentSubmissionRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="SharedDriveFile.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ShortAnswerSubmission.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Student.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="StudentSubmission.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Teacher.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="TimeOfDay.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="TurnInStudentSubmissionRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="UserProfile.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="YouTubeVideo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+</dwsync>

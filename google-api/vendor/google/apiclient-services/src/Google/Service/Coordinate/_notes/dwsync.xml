@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CustomField.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="CustomFieldDef.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="CustomFieldDefListResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="CustomFields.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="EnumItemDef.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Job.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="JobChange.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="JobListResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="JobState.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Location.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="LocationListResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="LocationRecord.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Schedule.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Team.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="TeamListResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="TokenPagination.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="Worker.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+<file name="WorkerListResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479800000000" />
+</dwsync>

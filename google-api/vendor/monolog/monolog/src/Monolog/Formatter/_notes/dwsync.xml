@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ChromePHPFormatter.php" server="adambeer.ca//public_html/" local="130853976260000000" remote="131243484000000000" />
+<file name="ElasticaFormatter.php" server="adambeer.ca//public_html/" local="130853976260000000" remote="131243484000000000" />
+<file name="FlowdockFormatter.php" server="adambeer.ca//public_html/" local="130853976260000000" remote="131243484000000000" />
+<file name="FormatterInterface.php" server="adambeer.ca//public_html/" local="130853976260000000" remote="131243484000000000" />
+<file name="GelfMessageFormatter.php" server="adambeer.ca//public_html/" local="130853976260000000" remote="131243484000000000" />
+<file name="HtmlFormatter.php" server="adambeer.ca//public_html/" local="130853976260000000" remote="131243484000000000" />
+<file name="JsonFormatter.php" server="adambeer.ca//public_html/" local="130853976260000000" remote="131243484000000000" />
+<file name="LineFormatter.php" server="adambeer.ca//public_html/" local="130853976260000000" remote="131243484000000000" />
+<file name="LogglyFormatter.php" server="adambeer.ca//public_html/" local="130853976260000000" remote="131243484000000000" />
+<file name="LogstashFormatter.php" server="adambeer.ca//public_html/" local="130853976260000000" remote="131243484000000000" />
+<file name="MongoDBFormatter.php" server="adambeer.ca//public_html/" local="130853976260000000" remote="131243484000000000" />
+<file name="NormalizerFormatter.php" server="adambeer.ca//public_html/" local="130853976260000000" remote="131243484000000000" />
+<file name="ScalarFormatter.php" server="adambeer.ca//public_html/" local="130853976260000000" remote="131243484000000000" />
+<file name="WildfireFormatter.php" server="adambeer.ca//public_html/" local="130853976260000000" remote="131243484000000000" />
+</dwsync>

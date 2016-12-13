@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CreateAuthUriResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="DeleteAccountResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="DownloadAccountResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="EmailTemplate.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="GetAccountInfoResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="GetOobConfirmationCodeResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="GetRecaptchaParamResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="IdentitytoolkitRelyingpartyCreateAuthUriRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="IdentitytoolkitRelyingpartyCreateAuthUriRequestCustomParameter.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="IdentitytoolkitRelyingpartyDeleteAccountRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="IdentitytoolkitRelyingpartyDownloadAccountRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="IdentitytoolkitRelyingpartyGetAccountInfoRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="IdentitytoolkitRelyingpartyGetProjectConfigResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="IdentitytoolkitRelyingpartyResetPasswordRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="IdentitytoolkitRelyingpartySetAccountInfoRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="IdentitytoolkitRelyingpartySetProjectConfigRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="IdentitytoolkitRelyingpartySetProjectConfigResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="IdentitytoolkitRelyingpartySignOutUserRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="IdentitytoolkitRelyingpartySignOutUserResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="IdentitytoolkitRelyingpartySignupNewUserRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="IdentitytoolkitRelyingpartyUploadAccountRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="IdentitytoolkitRelyingpartyVerifyAssertionRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="IdentitytoolkitRelyingpartyVerifyCustomTokenRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="IdentitytoolkitRelyingpartyVerifyPasswordRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="IdpConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Relyingparty.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="ResetPasswordResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="SetAccountInfoResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="SetAccountInfoResponseProviderUserInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="SignupNewUserResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="UploadAccountResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="UploadAccountResponseError.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="UserInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="UserInfoProviderUserInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="VerifyAssertionResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="VerifyCustomTokenResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="VerifyPasswordResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+</dwsync>

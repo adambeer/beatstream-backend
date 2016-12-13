@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AwsAccessKey.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="AwsS3Data.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Date.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ErrorLogEntry.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ErrorSummary.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="GcsData.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="GoogleServiceAccount.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="HttpData.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ListOperationsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ListTransferJobsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ObjectConditions.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Operation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="PauseTransferOperationRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ResumeTransferOperationRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Schedule.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Status.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="StoragetransferEmpty.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="TimeOfDay.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="TransferCounters.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="TransferJob.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="TransferOperation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="TransferOptions.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="TransferSpec.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="UpdateTransferJobRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+</dwsync>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AnnotateImageRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="AnnotateImageResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="BatchAnnotateImagesRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="BatchAnnotateImagesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="BoundingPoly.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Color.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ColorInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="DominantColorsAnnotation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="EntityAnnotation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="FaceAnnotation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Feature.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Image.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ImageContext.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ImageProperties.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="ImageSource.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Landmark.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="LatLng.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="LatLongRect.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="LocationInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Position.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Property.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="SafeSearchAnnotation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Status.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Vertex.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+</dwsync>

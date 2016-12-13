@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BadResponseException.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="ClientException.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="ConnectException.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="CouldNotRewindStreamException.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="ParseException.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="RequestException.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="ServerException.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="StateException.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="TooManyRedirectsException.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="TransferException.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="XmlParseException.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+</dwsync>

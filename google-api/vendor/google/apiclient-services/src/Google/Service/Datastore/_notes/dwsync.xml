@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AllocateIdsRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="AllocateIdsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ArrayValue.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="BeginTransactionRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="BeginTransactionResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="CommitRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="CommitResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="CompositeFilter.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="Entity.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="EntityResult.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="Filter.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="GqlQuery.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="GqlQueryParameter.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="Key.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="KindExpression.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="LatLng.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="LookupRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="LookupResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="Mutation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="MutationResult.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="PartitionId.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="PathElement.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="Projection.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="PropertyFilter.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="PropertyOrder.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="PropertyReference.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="Query.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="QueryResultBatch.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ReadOptions.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="RollbackRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="RollbackResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="RunQueryRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="RunQueryResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="Value.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+</dwsync>

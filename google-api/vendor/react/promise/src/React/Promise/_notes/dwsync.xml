@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Deferred.php" server="adambeer.ca//public_html/" local="130311528360000000" remote="131243484600000000" />
+<file name="FulfilledPromise.php" server="adambeer.ca//public_html/" local="130311528360000000" remote="131243484600000000" />
+<file name="functions.php" server="adambeer.ca//public_html/" local="130311528360000000" remote="131243484600000000" />
+<file name="LazyPromise.php" server="adambeer.ca//public_html/" local="130311528360000000" remote="131243484600000000" />
+<file name="Promise.php" server="adambeer.ca//public_html/" local="130311528360000000" remote="131243484600000000" />
+<file name="PromiseInterface.php" server="adambeer.ca//public_html/" local="130311528360000000" remote="131243484600000000" />
+<file name="PromisorInterface.php" server="adambeer.ca//public_html/" local="130311528360000000" remote="131243484600000000" />
+<file name="RejectedPromise.php" server="adambeer.ca//public_html/" local="130311528360000000" remote="131243484600000000" />
+</dwsync>

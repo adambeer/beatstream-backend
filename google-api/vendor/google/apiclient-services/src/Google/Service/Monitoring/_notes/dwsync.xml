@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BucketOptions.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="CollectdPayload.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="CollectdValue.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="CreateCollectdTimeSeriesRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="CreateTimeSeriesRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Distribution.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Explicit.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Exponential.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Field.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Group.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="LabelDescriptor.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Linear.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="ListGroupMembersResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="ListGroupsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="ListMetricDescriptorsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="ListMonitoredResourceDescriptorsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="ListTimeSeriesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Metric.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="MetricDescriptor.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="MonitoredResource.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="MonitoredResourceDescriptor.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="MonitoringEmpty.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Option.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Point.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Range.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="SourceContext.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="TimeInterval.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="TimeSeries.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Type.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="TypedValue.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+</dwsync>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractEvent.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="AbstractRequestEvent.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="AbstractRetryableEvent.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="AbstractTransferEvent.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="BeforeEvent.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="CompleteEvent.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="Emitter.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="EmitterInterface.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="EndEvent.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="ErrorEvent.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="EventInterface.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="HasEmitterInterface.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="HasEmitterTrait.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="ListenerAttacherTrait.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="ProgressEvent.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="RequestEvents.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+<file name="SubscriberInterface.php" server="adambeer.ca//public_html/" local="130765564760000000" remote="131243483400000000" />
+</dwsync>

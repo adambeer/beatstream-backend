@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CertificationExamStatus.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="CertificationStatus.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Company.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="CreateLeadRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="CreateLeadResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="DebugInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="EventData.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="GetCompanyResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="LatLng.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Lead.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="ListCompaniesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="ListUserStatesResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="LocalizedCompanyInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Location.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="LogMessageRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="LogMessageResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="LogUserEventRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="LogUserEventResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Money.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="PublicProfile.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Rank.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="RecaptchaChallenge.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="RequestMetadata.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="ResponseMetadata.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="TrafficSource.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="UserOverrides.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+</dwsync>

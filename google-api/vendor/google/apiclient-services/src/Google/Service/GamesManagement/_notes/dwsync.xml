@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AchievementResetAllResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="AchievementResetMultipleForAllRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="AchievementResetResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="EventsResetMultipleForAllRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="GamesPlayedResource.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="GamesPlayerExperienceInfoResource.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="GamesPlayerLevelResource.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="HiddenPlayer.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="HiddenPlayerList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="Player.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="PlayerName.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="PlayerScoreResetAllResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="PlayerScoreResetResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ProfileSettings.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="QuestsResetMultipleForAllRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+<file name="ScoresResetMultipleForAllRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481000000000" />
+</dwsync>

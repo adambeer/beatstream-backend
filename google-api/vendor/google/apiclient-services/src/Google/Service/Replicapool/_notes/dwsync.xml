@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="InstanceGroupManager.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="InstanceGroupManagerList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="InstanceGroupManagersAbandonInstancesRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="InstanceGroupManagersDeleteInstancesRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="InstanceGroupManagersRecreateInstancesRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="InstanceGroupManagersSetInstanceTemplateRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="InstanceGroupManagersSetTargetPoolsRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="Operation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="OperationError.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="OperationErrorErrors.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="OperationList.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="OperationWarnings.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="OperationWarningsData.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="ReplicaPoolAutoHealingPolicy.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+</dwsync>

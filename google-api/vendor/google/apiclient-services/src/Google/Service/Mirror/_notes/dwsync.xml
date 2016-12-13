@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Account.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Attachment.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="AttachmentsListResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="AuthToken.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Command.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Contact.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="ContactsListResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Location.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="LocationsListResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="MenuItem.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="MenuValue.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Notification.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="NotificationConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Setting.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="Subscription.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="SubscriptionsListResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="TimelineItem.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="TimelineListResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="UserAction.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+<file name="UserData.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243481600000000" />
+</dwsync>

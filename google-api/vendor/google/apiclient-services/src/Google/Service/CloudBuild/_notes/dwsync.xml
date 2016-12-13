@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Build.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="BuildOperationMetadata.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="BuildOptions.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="BuildStep.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="BuildTrigger.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="BuiltImage.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="CancelBuildRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="CloudbuildEmpty.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="FileHashes.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Hash.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListBuildsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListBuildTriggersResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="ListOperationsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Operation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="RepoSource.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Results.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Source.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="SourceProvenance.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="Status.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+<file name="StorageSource.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243479200000000" />
+</dwsync>

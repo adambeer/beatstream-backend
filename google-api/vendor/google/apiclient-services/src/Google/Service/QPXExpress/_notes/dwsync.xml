@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AircraftData.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="AirportData.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="BagDescriptor.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="CarrierData.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="CityData.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="Data.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="FareInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="FlightInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="FreeBaggageAllowance.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="LegInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="PassengerCounts.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="PricingInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="SegmentInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="SegmentPricing.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="SliceInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="SliceInput.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="TaxData.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="TaxInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="TimeOfDayRange.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="TripOption.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="TripOptionsRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="TripOptionsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="TripsSearchRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+<file name="TripsSearchResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482200000000" />
+</dwsync>

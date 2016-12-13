@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuditConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="Binding.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="Condition.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ConfigFile.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="Deployment.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="DeploymentLabelEntry.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="DeploymentmanagerResource.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="DeploymentmanagerResourceWarnings.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="DeploymentmanagerResourceWarningsData.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="DeploymentsCancelPreviewRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="DeploymentsListResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="DeploymentsStopRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="DeploymentUpdate.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="DeploymentUpdateLabelEntry.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ImportFile.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="LogConfig.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="LogConfigCounterOptions.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="Manifest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ManifestsListResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="Operation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="OperationError.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="OperationErrorErrors.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="OperationsListResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="OperationWarnings.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="OperationWarningsData.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="Policy.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ResourceAccessControl.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ResourcesListResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ResourceUpdate.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ResourceUpdateError.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ResourceUpdateErrorErrors.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ResourceUpdateWarnings.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="ResourceUpdateWarningsData.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="Rule.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="TargetConfiguration.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="TestPermissionsRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="TestPermissionsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="Type.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+<file name="TypesListResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243480400000000" />
+</dwsync>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Cohort.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="CohortGroup.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="ColumnHeader.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="DateRange.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="DateRangeValues.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="Dimension.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="DimensionFilter.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="DimensionFilterClause.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="DynamicSegment.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="GetReportsRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="GetReportsResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="Metric.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="MetricFilter.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="MetricFilterClause.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="MetricHeader.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="MetricHeaderEntry.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="OrderBy.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="OrFiltersForSegment.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="Pivot.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="PivotHeader.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="PivotHeaderEntry.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="PivotValueRegion.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="Report.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="ReportData.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="ReportRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="ReportRow.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="Segment.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="SegmentDefinition.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="SegmentDimensionFilter.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="SegmentFilter.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="SegmentFilterClause.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="SegmentMetricFilter.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="SegmentSequenceStep.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="SequenceSegment.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+<file name="SimpleSegment.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243478600000000" />
+</dwsync>

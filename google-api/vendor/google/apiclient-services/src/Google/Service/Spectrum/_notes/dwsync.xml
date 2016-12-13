@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AntennaCharacteristics.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="DatabaseSpec.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="DbUpdateSpec.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="DeviceCapabilities.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="DeviceDescriptor.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="DeviceOwner.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="DeviceValidity.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="EventTime.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="FrequencyRange.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="GeoLocation.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="GeoLocationEllipse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="GeoLocationPoint.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="GeoLocationPolygon.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="GeoSpectrumSchedule.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="PawsGetSpectrumBatchRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="PawsGetSpectrumBatchResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="PawsGetSpectrumRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="PawsGetSpectrumResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="PawsInitRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="PawsInitResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="PawsNotifySpectrumUseRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="PawsNotifySpectrumUseResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="PawsRegisterRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="PawsRegisterResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="PawsVerifyDeviceRequest.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="PawsVerifyDeviceResponse.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="RulesetInfo.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="SpectrumMessage.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="SpectrumSchedule.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="Vcard.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="VcardAddress.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="VcardTelephone.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+<file name="VcardTypedText.php" server="adambeer.ca//public_html/" local="131225621060000000" remote="131243482800000000" />
+</dwsync>
